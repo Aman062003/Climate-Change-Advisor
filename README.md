@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-    <a href="https://youtube.com/playlist?list=PLJT1e2CqMCFCdBm_B1zyMfFh7Mu_E3xme&si=zHGmFLwoV8rY81vG" target="_blank">
       <img src="public/github_banner.png" alt="Project Banner">
     </a>
   <br />
@@ -16,9 +15,6 @@
 
   <h3 align="center">Chatbot Application Using Gemini AI</h3>
 
-   <div align="center">
-     Build this project step by step with a detailed tutorial on <a href="https://www.youtube.com/@codespirit369/videos" target="_blank"><b>Code Spirit</b></a> YouTube.
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -28,11 +24,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@codespirit369/videos" target="_blank"><b>Code Spirit</b></a>.
-
-<a href="https://youtu.be/hs6BtY9ndXA" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
