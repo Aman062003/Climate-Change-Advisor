@@ -1,3 +1,5 @@
+Open (https://climate-change-advisor.vercel.app/) in your browser to live view the project.
+
 <div align="center">
   <br />
       <img src="public/github_banner.png" alt="Project Banner">
